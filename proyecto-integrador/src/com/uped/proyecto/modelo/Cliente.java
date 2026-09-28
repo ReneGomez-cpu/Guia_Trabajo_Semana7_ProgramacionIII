@@ -22,4 +22,8 @@ public class Cliente extends Persona {
     public String toString() {
         return presentarse() + " | Categoría: " + categoria;
     }
+
+    public void comprar(String laptop) {
+
+    }
 }

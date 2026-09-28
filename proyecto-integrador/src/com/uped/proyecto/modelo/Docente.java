@@ -23,4 +23,8 @@ public class Docente extends Persona {
     public String toString() {
         return presentarse() + " | Especialidad: " + especialidad;
     }
+
+    public void impartirClase(String programaciónIii) {
+
+    }
 }
